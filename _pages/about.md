@@ -4,26 +4,13 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Welcome to **Stealth Thinker** This blog is a platform where I delve into diverse multidisciplinary topics and express my unique understanding and insights. As a passionate Multidisciplinary Engineer, I aim to explore the intricacies of various subjects and offer thought-provoking content to engage and inspire readers.
 
-## Features
+In this digital space, I delve into a wide range of subjects, drawing inspiration from fields such as philosophy, science, technology, art, psychology, and beyond. By weaving together ideas from different disciplines, I strive to provide a holistic perspective on complex issues and foster intellectual curiosity.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
+Through my writings, I aim to encourage readers to think critically, question conventional wisdom, and explore unconventional ideas. I believe that by delving into multidisciplinary topics, we can broaden our horizons, challenge our assumptions, and gain a deeper understanding of the world we inhabit.
 
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Join me on this intellectual journey as we embark on a quest for knowledge, enlightenment, and personal growth. Let's engage in meaningful discussions, share ideas, and foster a community of like-minded individuals who appreciate the power of interdisciplinary thinking.
+
+Thank you for visiting "Stealth Thinker." I hope you find inspiration, insight, and new perspectives within these virtual pages. Together, let's unravel the mysteries of the world and embrace the transformative power of thoughtful exploration.

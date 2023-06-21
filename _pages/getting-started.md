@@ -1,51 +1,23 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Getting Started
 permalink: /getting-started/
 ---
 
-### Step 1) Fork Reverie to your User Repository
+Welcome to "Stealth Thinker" 
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+We're delighted to have you join our intellectual community. As you embark on your journey through "Stealth Thinker," we want to provide you with a "Start Here" guide to help you navigate the diverse multidisciplinary topics explored on this blog. Here are some essential resources and recommendations to get you started:
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+1. Our Philosophy: At "Stealth Thinker," we believe in the power of interdisciplinary thinking and the exploration of various subjects. We aim to uncover insights, challenge assumptions, and foster intellectual growth through our articles. Learn more about our philosophy and approach to knowledge and understanding.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+2. Core Concepts: Dive into the core concepts that form the foundation of "Stealth Thinker." These are fundamental ideas and frameworks that recur throughout our articles. Exploring these concepts will provide you with a solid grounding and a deeper appreciation of the topics we discuss.
 
-### Step 2) Customize and view your site
+3. Recommended Reading: Discover a curated selection of our most thought-provoking and influential articles. These pieces have resonated with readers, sparking engaging discussions and offering unique perspectives. They cover a range of topics, allowing you to explore the breadth of our multidisciplinary approach.
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+4. The "Great Thinkers" Series: Delve into our ongoing series dedicated to profiling influential thinkers and their contributions to various fields. From philosophers and scientists to artists and innovators, this series offers insights into the lives and ideas of those who have shaped our understanding of the world.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
+5. Resources: Explore a collection of recommended books, podcasts, and other external resources that align with the spirit of "Stealth Thinker." These resources will further enrich your learning experience and provide additional avenues for exploration beyond our blog.
 
-### Step 3) Publish your first blog post
+**Stealth Thinker** is a platform where knowledge flourishes, ideas converge, and curiosity thrives. We invite you to embrace the power of multidisciplinary thinking, challenge your assumptions, and embark on a quest for deeper understanding.
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+Happy reading and thinking!

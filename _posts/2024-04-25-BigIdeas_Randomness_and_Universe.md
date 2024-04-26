@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Big Ideas: Randomness and Universe
+title:  Big Ideas- Randomness and Universe
 categories: [BigIdeas]
 excerpt: 
 ---

@@ -1,37 +1,36 @@
 ---
 layout: post
-title:  Art of Loving alone
+title:  Walking alone, Finding Home
 categories: [Poem]
-excerpt: 
+excerpt: Few words written with hope and resillience, in search of home.
 ---
-# Art of Loving alone
 
-```
-In the morning light, Sun not so bright,
-I walk alone, no one in sight.
-My heart is sad but still have courage to care.
 
-Leaves moves softly, Sharing tree's secrets,
-Holding insects in their lap, express they care.
-Wind sing their mesmerising song, 
-Carries me as I walk along.
+In the morning light, Sun not so bright,  <br/>
+I walk alone, no one in sight.<br/>
+My heart is sad but still have courage to care.<br/>
 
-Rivers flow with stories to tell,
-Their cool touch makes me feel well.
-I dip my legs in waters, makes mind clear
-Nature holds me near, Hugs like mother.  
+Leaves moves softly, Sharing tree's secrets,<br/>
+Holding insects in their lap, express they care.<br/>
+Wind sing their mesmerising song, <br/>
+Carries me as I walk along.<br/>
 
-Every step, a new start,
-Fixing pieces of my heart.
-Though love has left a lot scars,
-I still hope for people, like a shining star.
+Rivers flow with stories to tell,<br/>
+Their cool touch makes me feel well.<br/>
+I dip my legs in waters, makes mind clear<br/>
+Nature holds me near, Hugs like mother.  <br/>
 
-In being alone, I start to grow,
-Embracing high and low.
-In leaves, wind chimes, and waters 
-I see love and dreams inside of me.
+Every step, a new start,<br/>
+Fixing pieces of my heart.<br/>
+Though love has left a lot scars,<br/>
+I still hope for people, like a shining star.<br/>
 
-I walk alone, but not in pain,
-Still have courage to love them. 
-In nature’s arms, I’m never alone,
-In every breath, I find my home.```
+In being alone, I start to grow,<br/>
+Embracing high and low.<br/>
+In leaves, wind chimes, and waters <br/>
+I see love and dreams inside of me.<br/>
+
+I walk alone, but not in pain,<br/>
+Still have courage to love them. <br/>
+In nature’s arms, I’m never alone,<br/>
+In every breath, I find my home. <br/>
